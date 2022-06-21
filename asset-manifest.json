@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/resume/static/js/main.8d1c55ed.js",
+    "index.html": "/resume/index.html",
+    "main.8d1c55ed.js.map": "/resume/static/js/main.8d1c55ed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8d1c55ed.js"
+  ]
+}
